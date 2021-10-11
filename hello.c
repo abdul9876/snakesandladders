@@ -1,3 +1,9 @@
-#include <iostream.h>
-#include <stdio.h>
-printf("hello");
+package com.hello;
+
+public class Main {
+
+    public static void main(String[] args) {
+      
+        System.out.println("hello")
+    }
+}
